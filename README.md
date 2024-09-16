@@ -5,3 +5,5 @@ I'm a **Web Developer** focused on backend with Django and experienced in Fullst
 ## 🚀 Technologies & Tools
 - **Languages**: Python, JavaScript, HTML5, CSS3
 - **Databases**: PostgreSQL, MySQL, SQLite
+
+## 🌱 Siempre aprendiendo
