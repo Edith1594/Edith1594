@@ -3,7 +3,7 @@
 I'm a **Web Developer** focused on backend and experienced in Fullstack development. I enjoy building functional, scalable, and maintainable web applications, both on the server and client side.
 
 ## 🚀 Technologies & Tools
-- **Languages**: Python, JavaScript, HTML5, CSS3
+- **Languages**: Python, C#, JavaScript, HTML5, CSS3
 - **Databases**: PostgreSQL, MySQL, SQLite
 
 🌱 Always Learning
